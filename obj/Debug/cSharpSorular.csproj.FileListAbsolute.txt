@@ -1,0 +1,7 @@
+D:\Freelance\1 haziran c# 18 soru\cSharpSorular\bin\Debug\cSharpSorular.exe.config
+D:\Freelance\1 haziran c# 18 soru\cSharpSorular\bin\Debug\cSharpSorular.exe
+D:\Freelance\1 haziran c# 18 soru\cSharpSorular\bin\Debug\cSharpSorular.pdb
+D:\Freelance\1 haziran c# 18 soru\cSharpSorular\obj\Debug\cSharpSorular.csprojAssemblyReference.cache
+D:\Freelance\1 haziran c# 18 soru\cSharpSorular\obj\Debug\cSharpSorular.csproj.CoreCompileInputs.cache
+D:\Freelance\1 haziran c# 18 soru\cSharpSorular\obj\Debug\cSharpSorular.exe
+D:\Freelance\1 haziran c# 18 soru\cSharpSorular\obj\Debug\cSharpSorular.pdb

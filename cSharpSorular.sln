@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cSharpSorular", "cSharpSorular.csproj", "{D73F16E4-087A-4A59-BCE4-318E7EC3AB0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D73F16E4-087A-4A59-BCE4-318E7EC3AB0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D73F16E4-087A-4A59-BCE4-318E7EC3AB0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D73F16E4-087A-4A59-BCE4-318E7EC3AB0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D73F16E4-087A-4A59-BCE4-318E7EC3AB0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F884034-7DF6-420F-9F09-90512368F721}
+	EndGlobalSection
+EndGlobal
